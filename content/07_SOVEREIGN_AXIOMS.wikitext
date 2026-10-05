@@ -1,0 +1,48 @@
+'''The ten axioms''' are the strongest surviving in-universe theory of [[Sovereign/Self-Refinement|Self-Refinement]]. They were assembled by archivists after the Open Witness episodes. Each includes a possible objection. Their presence in the archive does not make them laws of all fiction.
+
+== 1. Address ==
+
+'''Statement:''' An effect resolves against a target through an address supplied by its account. In plain terms, even "anything" must pick out what it acts on. In the tribunal, the Absolute Attack addressed the continuous defendant in its docket. Readdressing allowed a later Ivo to stand outside that docket relation while the effect destroyed its actual target. '''Consequence:''' Examining a target relation can be more useful than increasing durability. '''Problem:''' Some effects may have no separable address, or their address may cover every valid continuation.
+
+== 2. Residue ==
+
+'''Statement:''' Meaningful opposition can inform refinement only if the encounter leaves an accessible difference. The bell had consequences with a missing cause; that gap gave Ivo his first route. '''Consequence:''' Information erasure does not always succeed if an edge of absence survives. '''Problem:''' A perfectly traceless closure would give no known route, and the archive cannot prove such closure impossible.
+
+== 3. Revision ==
+
+'''Statement:''' A witnessed difference can license a candidate change in Ivo's self-description; it does not guarantee a viable one. Ivo revised his capacity to read a lethal order because a witness retained a mismatch the order had not settled. '''Consequence:''' Adaptation is generative rather than a list of prewritten counters. '''Problem:''' A proposed continuation may contradict every available witness.
+
+== 4. Continuance ==
+
+'''Statement:''' A subsequent state counts as Ivo in the archive only through a witnessable relation to a former state. Teren's lost memory makes a revised Ivo harder to recognize even though Ivo remembers Teren. '''Consequence:''' Survival claims require more than matching memories. '''Problem:''' A perfect copy might satisfy every witness while failing to preserve first-person consciousness.
+
+== 5. Jurisdiction ==
+
+'''Statement:''' Every edit acts within an account or a specified relation among accounts. The Closed King remains absolute inside his book; Ivo's disputed route concerns the book's relation to a reader. '''Consequence:''' A local absolute need not be insulted to describe an exterior relation. '''Problem:''' A genuinely universal authority could include every relation.
+
+== 6. Open Account ==
+
+'''Statement:''' An account is not final merely because it describes itself as final. The hostile archivist's terminal definition still had assumptions that could be encountered. '''Consequence:''' A title such as "beyond authors" is a claim to examine, not an automatic result. '''Problem:''' This principle does not establish that a truly complete account cannot exist.
+
+== 7. Symmetry ==
+
+'''Statement:''' A rival reviser has the same prima facie claim to continuation as Ivo. When one rival learned Ivo's prior revision, each response became information to the other. '''Consequence:''' Recursive escalation, convergence, deadlock, or incomparability may follow. '''Problem:''' Without a shared comparison relation, "surpass" may be undefined.
+
+== 8. Unborrowed Consent ==
+
+'''Statement:''' Ability to change another person's identity is not itself permission. Ivo nearly revised Sana's memories under a rule that treated silence as consent and later adopted Counterfactual Mercy. '''Consequence:''' A person may reject a physically better outcome. '''Problem:''' Emergencies can make meaningful consent impossible.
+
+== 9. Cost of Proof ==
+
+'''Statement:''' No collection of reconstructed evidence proves an unbroken first-person life. The ferryman's complete memories did not tell Ivo whether he had restored the husband who drowned. '''Consequence:''' More accurate reconstruction does not close the identity problem. '''Problem:''' Ordinary personal identity may never have offered such proof either.
+
+== 10. The Untouched Cup ==
+
+'''Statement:''' Ivo shall not intentionally edit [[The Anchor Memory]]. The cup's color could be settled through revision; he refuses. '''Consequence:''' He retains one possible piece of unchosen evidence at personal cost. '''Problem:''' A false memory can also harm people, and preserving it may be another form of control.
+
+== Status of the theory ==
+
+The axioms explain recorded events, but the record is incomplete and some testimony conflicts. "Open Account" is often overstated by admirers into a proof of universal victory. It is not one. See [[Sovereign/Feats]] for events and explicit limits, and [[Sovereign/Philosophy]] for the unresolved identity question.
+
+{{Sovereign navigation}}
+[[Category:Mechanics]]

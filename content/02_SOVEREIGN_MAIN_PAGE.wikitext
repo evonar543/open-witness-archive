@@ -1,0 +1,131 @@
+{{Sovereign infobox
+|name=Sovereign
+|birth_name=Ivo Ren
+|other_names=The Open Witness; the Unfinished
+|home=Leth
+|first_state=The Human
+|known_state=The Open Witness
+|signature_object=The measure
+|central_vow=Will not intentionally edit the Anchor Memory
+}}
+
+The first thing '''Ivo Ren''' changed was a bell.
+
+In Leth, everyone remembered hearing it during the river evacuation. The streets had emptied; a child had been carried out of a flooded room. Yet the municipal log had no order to ring it, no person who had pulled the rope, and no hour in which it could have sounded. Ivo was a corrections clerk. He had spent his life believing that a missing cause was an error someone could put right.
+
+He found a way to restore the cause. The bell rang again. This time the child was never trapped, and the child's mother no longer remembered thanking the person who had saved him. Ivo kept the corrected record and the original side by side. He could not make them agree.<ref>[[Sovereign/History#The Reader|History, “The Reader”]]; [[Sovereign/Feats#3. The bell's cause — narrative|Feats, “The bell's cause”]].</ref>
+
+Later accounts call him '''Sovereign'''. He does not like the title. What began with the bell became [[Sovereign/Self-Refinement|Self-Refinement]]: the ability to alter the description by which a threat identifies him, and eventually the description by which he identifies himself. Each revision can spare a life or escape a final sentence. Each also makes it harder to know whether the person who emerged is the person who entered.
+
+<blockquote>"I can correct the page. I still have to answer to the people who lived on it."</blockquote>
+
+== Before the name ==
+
+Ivo grew up above a wet street with his mother Tala and younger sister Mira. Tala mended coats; Mira folded boats from receipts. He loved the ordinary proof that they were there: a voice in the next room, the chipped cup left beside the sink. He became a clerk because a line on a flood map could send a family toward safety or toward water. He also learned to mistake care for control. He could not leave an apology alone once it had been spoken, and a correction he made without checking the survey cost two families their homes.
+
+His partner Sana Or saw both sides of him. Teren Oss, his closest friend, taught him to eat breakfast before trying to repair the city. Their lives did not become smaller when Ivo's power grew; his interventions made their memories and consent harder to protect. [[Sovereign/History|The history]] follows the events. [[Sovereign/Relationships|The relationships]] records what the people close to him lost and chose.<ref>[[Sovereign/History#The human|History, “The human”]]; [[Sovereign/Relationships|Relationships]].</ref>
+
+== The work of revision ==
+
+Ivo first learned to notice descriptions beneath events. He later changed events, then the rules that let an event count as his. His strongest recorded state, [[Sovereign/History|the Open Witness]], can question an attempted final definition when that attempt leaves an accessible difference. This is the clerk's old habit at impossible scale: he lays two accounts together and asks where the lines fail to meet.
+
+The process is not a wish. An encounter must leave a trace; Ivo must find a coherent change; and a witness must connect the earlier Ivo to the later one. A revision can fail. An effect that closes without any accessible difference may leave him nothing to work with. Even a successful escape can preserve a copy instead of the consciousness he meant to save. [[Sovereign/Self-Refinement]] explains the mechanism; [[Sovereign/Axioms]] gives the archive's disputed rules; [[Sovereign/Feats]] distinguishes witnessed events from what readers infer from them.
+
+The distinction between changing the world and changing himself matters. When Ivo diverts a flood, he changes an event, and other people bear the changed history. When he changes what a lethal order names as its defendant, he changes his own relation to the order. The order can still execute perfectly against the person it names. The harder question is whether the voice that answers afterward is continuous with that person. He has no instrument that can certify a first-person life from the outside.<ref>[[Sovereign/Self-Refinement#Eight kinds of edit|Self-Refinement, “Eight kinds of edit”]]; [[Sovereign/Feats#5. The lethal order — identity|Feats, “The lethal order”]].</ref>
+
+== Recorded progression ==
+
+The archive uses names for changes in Ivo's relation to description. These are periods in a life, not ranks of force. Each began with a problem the previous Ivo could not solve without changing something he valued.
+
+{| class="wikitable"
+! Period !! What changed !! What it cost
+|-
+| The Human || He compared survey plates and tried to repair errors before they hurt anyone. || An unverified map correction delayed a warning and cost two families their homes.
+|-
+| The Reader || The bell's missing cause showed him that an event could outlive the sentence which explained it. || He could no longer trust that his memories belonged to a single version of the city.
+|-
+| The Editor || He learned to amend events within Leth's account. || Diverting a flood erased the meeting through which Teren had become his friend.
+|-
+| The Revision || A lethal order forced him to change the description of its target. || His preserved childhood handwriting no longer matched his own.
+|-
+| The Recursive Witness || He discovered that one account of Leth could be interpreted by another. || Sana remembered him in one account and failed to in another; he could not choose for her.
+|-
+| The Self-Written and the Unfinished || Different readings sustained different Ivos, and attempted final descriptions could themselves become encounters. || He lost the comfort of a single original and began to fear that even his revisions might have an author.
+|-
+| The Open Witness || He stopped treating every ending as a command to intervene. || He had to live with testimony he could neither reconcile nor erase.
+|}
+
+The longer chronology records the disagreements among witnesses, including events that may have been revised after they were remembered.<ref>[[Sovereign/History|History]]; [[Sovereign/Feats#Failures and anti-feats|Feats, “Failures and anti-feats”]].</ref>
+
+== The world he found ==
+
+Leth is not presented as a stack of higher and higher universes. The archive describes a '''world''' of lived events, an '''account''' that gives those events their permitted shape, a '''reading''' that makes an account actual, and a '''witness''' that preserves a difference between one state and another. A person may occupy more than one of these roles: Sana is part of Leth's world, but her incompatible memories also witness two readings of it. None of the four terms names a universally highest floor. They are ways the story keeps track of what changed and who can tell.<ref>[[Sovereign/Cosmology|Cosmology]]; [[Sovereign/Self-Refinement#Operational sequence|Self-Refinement, “Operational sequence”]].</ref>
+
+Ivo discovered this structure through administrative mistakes rather than revelation. The uncaused bell had produced open doors and wet coats even though its cause was absent. On another day Sana answered a question he had not yet asked; Ivo found the question already written in the margin of a survey proof. He did not suddenly know that all worlds were books. He knew only that, in Leth, a description could arrive before the event it described and that a damaged description did not always remove the event's consequences. He had to learn how to read that damage before he could touch it.<ref>[[Sovereign/History#The Reader|History, “The Reader”]]; [[Sovereign/Feats#2. The unasked question — temporal|Feats, “The unasked question”]].</ref>
+
+Later, an account treated the whole history of Leth as a cautionary fable. This did not make its people unreal to one another. It made the relation between accounts another place where omission and disagreement could occur. Ivo's change at that stage was to carry a witness across the relation without erasing the difference between the two tellings. Sana's memories did not harmonize; one version of her remembered a relationship the other had never lived. The apparent ascent was also a division Ivo could not repair for her.<ref>[[Sovereign/History#The Recursive Witness|History, “The Recursive Witness”]]; [[Sovereign/Feats#10. The fable of Leth — recursive|Feats, “The fable of Leth”]].</ref>
+
+== Abilities and method ==
+
+'''The measure''' is the narrow brass frame Ivo used to align two printed maps. After the first anomalies it began revealing differences between descriptions: a line moved, a word omitted, a name appearing only in one witness's account. It does not tell him which account is true. Its importance is practical and moral. It slows him down long enough to see that a correction has a cost.<ref>[[The Measure]]; [[Sovereign/Abilities#The measure|Abilities, “The measure”]].</ref>
+
+'''Readdressing''' is his best known defense. Most effects require some way of determining what they act upon, even if the address is as broad as “anything.” Ivo can sometimes change his own relation to that address. In the famous absolute-attack episode, the attack was not overpowered. It finished under its own rules, and the question became whether its completed target was still Ivo. The tribunal case shows why this is more unsettling than an immunity: the named defendant died. A surviving name is not proof of a surviving consciousness.<ref>[[Sovereign/Abilities#Readdressing|Abilities, “Readdressing”]]; [[Sovereign/Feats#9. The Absolute Attack — semantic|Feats, “The Absolute Attack”]].</ref>
+
+'''Witness transfer''' allows a difference retained in one account to inform a revision in another, when a real relation joins them. '''Margin Concordance''' lets conflicting accounts remain legible beside one another. Neither grants Ivo ownership of them. These practices are most useful when one telling has been made official and another remembers what it left out. They are also dangerous: once he chooses which trace counts as the bridge, he may impose his preferred history on someone who did not ask for it.<ref>[[Sovereign/Abilities#Witness transfer|Abilities, “Witness transfer”]]; [[Sovereign/Abilities#Margin Concordance|Abilities, “Margin Concordance”]].</ref>
+
+'''The Deferred Ending''' holds a declared conclusion open long enough to test whether it follows from its stated premises. It cannot make completed harm unhappen. '''The Last Word''' forces a supposedly unconditional operation to finish stating what it acts on and how. These are not incantations that embarrass a stronger opponent into defeat. They matter when the opponent's own action depends on a target or relation its claim has left unspecified. When no such gap exists, Ivo has nothing to use.<ref>[[Sovereign/Abilities#The Deferred Ending|Abilities, “The Deferred Ending”]]; [[Sovereign/Abilities#The Last Word|Abilities, “The Last Word”]].</ref>
+
+'''The Unwritten State''' is the most frightening extension of his self-editing. He can withdraw a part of his description while its consequences remain: warmth in an empty chair, a promise with no remembered recipient, an unfinished grammatical place. The missing part is not a secret weapon waiting to be named. If Ivo withdraws too much, there may be no witness left to establish that the person who returns is him. He once came close enough to that edge that the archive will not fill the blank on his behalf.<ref>[[The Unwritten State]]; [[Sovereign/Abilities#The Unwritten State|Abilities, “The Unwritten State”]].</ref>
+
+'''Counterfactual Mercy''' is an ethical practice rather than an attack. Ivo shows a harmed person two possible repairs, including the price of each, and allows refusal. It arose after he nearly changed Sana's memory under a rule that mistook silence for consent. It cannot solve emergencies in which there is no time to ask, and it cannot prove that a restored person is numerically identical with the one lost. It does make Ivo's power answerable to someone other than Ivo.<ref>[[Sovereign/Abilities#Counterfactual Mercy|Abilities, “Counterfactual Mercy”]]; [[Sovereign/Philosophy#Consent and Counterfactual Mercy|Philosophy, “Consent and Counterfactual Mercy”]].</ref>
+
+== Recorded encounters ==
+
+'''The bell.''' This first correction is easy to mistake for a clean rescue. No child drowned. Yet the previous rescue also vanished from the mother's memory. The episode established the pattern that follows Ivo: an improved outcome can erase the relationship by which someone understood what happened.
+
+'''The tribunal.''' A later order was written to execute its defendant without exception. Ivo found the address by which the order identified him and revised his relation to it. The order was not weakened or blocked. Its named defendant died. A later Ivo spoke, but the archive cannot prove that the dead person continued rather than being replaced by a perfect successor. The event demonstrates a narrow method against an absolute effect and the terrible uncertainty hidden by the word “survived.”<ref>[[Sovereign/Feats#5. The lethal order — identity|Feats, “The lethal order”]]; [[Sovereign/Self-Refinement#The address of an absolute attack|Self-Refinement, “The address of an absolute attack”]].</ref>
+
+'''The finished book.''' The Closed King controlled every event and agent in a completed account. Ivo did not depose it. He found a relation between that account and the reading that declared it finished, then asked whether completion belonged to the world or to the reader's practice. The King remained absolute where its authority had been established. What the encounter demonstrated was a possible opening between an account and its interpretation, not superiority over every conceivable creator.<ref>[[The Closed King]]; [[Sovereign/History#Later disputed episodes|History, “Later disputed episodes”]].</ref>
+
+'''The missing place.''' In the Unwritten State, Ivo withdrew part of his own description. The room retained the warmth of the chair he had occupied; a friend remembered having promised someone something but not to whom. These are bounded effects of an absence, not proof that the missing part is immune to everything. Ivo came close to leaving too little for anyone to identify his continuation.<ref>[[The Unwritten State]]; [[Sovereign/Feats#16. The warm chair — unwritten|Feats, “The warm chair”]].</ref>
+
+The complete [[Sovereign/Feats|feat register]] records sixteen events, their witnesses, the proposed mechanism, and what each event fails to establish. It also records defeats and failures. The archive does not treat a scholar's explanation of an event as more certain than the event itself.
+
+== The thing he leaves alone ==
+
+Ivo remembers a blackout in Tala's kitchen. Rain crossed the window. Mira balanced a paper boat on a chipped cup and said, "Your turn to dry." The cup is green in one recollection, blue in another. Someone may have been humming outside the room, although no record places a fourth person in the apartment.
+
+He could settle the inconsistencies by editing the memory. He will not. [[The Anchor Memory]] may be the last part of his life he did not choose, or a later invention he has mistaken for one. Neither answer has been proved. His refusal has saved nothing by itself; at times it has made saving someone harder. It remains the one promise he knows he is making now.<ref>[[The Anchor Memory#Discrepancies|The Anchor Memory, “Discrepancies”]] and [[The Anchor Memory#The cost|“The cost”]].</ref>
+
+== What can be lost ==
+
+Ivo can evade many kinds of destruction. He cannot decide for another person that an altered life is the same life. Teren survives one repair and no longer knows him. A restored man carries a dead man's memories but cannot recognize his husband. Sana refuses a correction Ivo believes would spare her pain. The archive does not treat these as small costs paid for larger feats. They are the story's measure of him.<ref>[[Sovereign/Relationships|Relationships]]; [[Sovereign/Philosophy#Consent and Counterfactual Mercy|Philosophy, “Consent and Counterfactual Mercy”]].</ref>
+
+His central flaw has not disappeared. He still wants to make a wrong thing right before anyone has finished telling him what the wrong thing meant. Sana's refusal teaches him that restraint can be care, though she also reminds him that refusing to help is itself a choice with consequences. He cannot resolve that tension by growing stronger. When he calls himself the Open Witness, the title records a practice of leaving testimony available, including testimony against him. It is neither absolution nor retirement.<ref>[[Sovereign/Philosophy#The right to revise|Philosophy, “The right to revise”]]; [[Sovereign/History#The Open Witness|History, “The Open Witness”]].</ref>
+
+The [[The Closed King|Closed King]] keeps complete authority in a finished account; Ivo does not take its throne. In the [[The Reader Problem|Reader Problem]], different interpretations leave different Ivos answerable for different acts. [[Sovereign/Philosophy]] asks when the ability to revise becomes an obligation, and when it becomes an intrusion.
+
+== Appearance ==
+
+He has uneven dark hair, a pale fleck near his right pupil, and the habit of leaning toward whoever is speaking. His indigo coat has a copper-darned cuff. On a cord he carries [[The Measure|a brass registration frame]] from the corrections office. When he revises himself, straight lines briefly fail to meet their shadows. Nobody has established whether that sign belongs to Ivo or to a witness trying to keep track of him.
+
+== Reading the archive ==
+
+'''Canon events''' are the incidents recorded in [[Sovereign/History]] and [[Sovereign/Feats]]. '''In-universe theories''' include the axioms, which their own authors dispute. '''Comparative interpretations''' appear in [[Sovereign/Comparative model]]; they are arguments about encounters with other kinds of fiction, not events in Ivo's life. The [[Sovereign/Comparative model/Essential Divinity|Essential Divinity comparison]] examines a particularly difficult example without making a victory declaration part of canon.
+
+The strongest comparative case for Ivo is against a claim that every account of him has been completed. Such a claim supplies a relation between a proposed ending and what it ends; if that relation leaves a witnessable difference, his known method can work on it. A claim that truly governs every possible relation, leaves no accessible difference, and forecloses any continuation is a different case. No recorded event proves he can defeat it. This boundary is part of the design, not an exception added for a particular opponent.<ref>[[Sovereign/Self-Refinement#Jurisdiction and uncertainty|Self-Refinement, “Jurisdiction and uncertainty”]]; [[Sovereign/Comparative model#The limits of non-finality|Comparative model, “The limits of non-finality”]].</ref>
+
+== References ==
+
+<references/>
+
+== Further reading ==
+
+* [[Sovereign/Cosmology]] — the accounts in which the story takes place
+* [[Sovereign/Abilities]] — what Ivo has actually learned to do
+* [[The Unwritten State]] — the part of himself he withdrew from description
+* [[The Reader Problem]] — competing interpretations of one life
+* [[Sovereign/Quotes]] — surviving dialogue
+
+{{Sovereign navigation}}
+[[Category:Characters]]

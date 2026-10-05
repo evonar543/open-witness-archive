@@ -1,0 +1,44 @@
+'''Sovereign's cosmology''' describes relations among events, accounts, readings, and witnesses. It is not a stack of ever larger universes. A higher vantage in one relation may be an object inside another; neither arrangement by itself settles every possible encounter.
+
+== Four roles ==
+
+{| class="wikitable"
+! Role !! Meaning !! Example
+|-
+| World || Events made actual within an account || The flood reaches a Leth street.
+|-
+| Account || Constraints by which events can be described || Leth's river can take certain courses and produce certain histories.
+|-
+| Reading || Interpretation that makes an account operative || A reader treats the account of Leth as a cautionary fable.
+|-
+| Witness || A retained difference that relates states or accounts || A woman remembers the bell's rescue after its cause is removed.
+|}
+
+The roles need not be people or paper. An account could be mathematical or nonverbal. A reading could be a process rather than a human reader. A witness may be a person, a mark, or the edge of a missing interval. These are fictional structures introduced so the reader can follow what an edit acts upon.
+
+== Leth and the first discrepancy ==
+
+Leth's Municipal Corrections Office printed flood maps. Its records were unusually close to the constraints through which local events became actual. Ivo first found an evacuation bell with consequences but no cause. When he restored a cause, the bell rang again and the resulting history changed. That does not show that all of existence is a literal book. It shows that in Leth, description can precede an event.
+
+== Accounts interpreting accounts ==
+
+A later account reads Leth as a fable. Its omissions can affect Leth because the two accounts have an explicit interpretive relation. Ivo learns to edit that relation. This is the source of his apparent ascent beyond a single world. The archive avoids treating each new relation as simply a higher floor. The crucial question is whether a relation exists and whether a difference can cross it.
+
+== The Closed King's jurisdiction ==
+
+[[The Closed King]] controls every event and category inside his completed book. His authority is complete in that account. Ivo's contested escape follows a correction mark at the relation between the book and someone judging it finished. If the King controlled that relation too, the exit may have been permitted by him. The cosmology leaves the dispute visible.
+
+== Readers and plural selves ==
+
+Different readings produce subtly different versions of Ivo. He cannot simply declare one the original or fuse the rest without overriding their witnesses. [[The Reader Problem]] is therefore about identity and responsibility as much as narrative structure. A tiering system is one sort of reading: it selects evidence, interprets it, and maps it into a comparison model. It can truthfully describe a state without proving that the state is terminal.
+
+== Why dimensions cease to settle the matter ==
+
+Early records move from physical space to spacetime, dimensional and mathematical descriptions, concepts, inference rules, meanings, and relations among accounts. Each step matters when the active problem depends on it. Once Ivo's vulnerability lies in how he is described and recognized, adding another spatial dimension does not answer the question of whether the new Ivo is the old Ivo. The archive therefore records jurisdiction and witness rather than a final dimensional height.
+
+== The open question ==
+
+No surviving account demonstrates an ultimate outside. The Open Witness treats claims of finality as examinable when they leave a trace, but he may meet a closure that does not. The archive cannot turn its own uncertainty into an automatic escape route.
+
+{{Sovereign navigation}}
+[[Category:Cosmology]]

@@ -1,0 +1,2 @@
+Local navigation and presentation templates created for this archive. They are deliberately simple and do not rely on a third-party infobox system.
+[[Category:Archive index]]

@@ -1,0 +1,76 @@
+'''Sovereign's feats''' are archived events with a stated mechanism, implication, and limit. A surviving account may be disputed; an implication is narrower than a claim of universal ability. See [[Sovereign/History]] for sequence and [[Sovereign/Axioms]] for the archivists' theory.
+
+== 1. The floodgate chain — physical ==
+
+'''Event:''' Human Ivo held a jammed floodgate chain while neighbors crossed a footbridge. '''Mechanism:''' Leverage, pain, and the help of Teren Oss. '''Implication:''' He risked himself before he could edit anything. '''Limit:''' This is no evidence of supernatural strength or invulnerability.
+
+== 2. The unasked question — temporal ==
+
+'''Event:''' He read a question on a survey proof six seconds before he asked it. '''Mechanism:''' He perceived a local description preceding its event. '''Implication:''' Leth's account could be read in advance. '''Limit:''' The event does not show universal control of time or certainty about every future.
+
+== 3. The bell's cause — narrative ==
+
+'''Event:''' Ivo restored a cause to an evacuation bell already remembered as having rung. '''Mechanism:''' Local account editing. '''Implication:''' A missing cause can be changed while its consequences have witnesses. '''Limit:''' The corrected history removed a mother's gratitude; repair did not preserve every relationship.
+
+== 4. The abandoned sky — cosmic ==
+
+'''Event:''' A flood was diverted through geography no previous Leth map allowed. '''Mechanism:''' Reality editing under Leth's account. '''Implication:''' Ivo could alter large-scale local world constraints. '''Limit:''' Teren ceased to remember their friendship, and the event grants no authority over unrelated worlds.
+
+== 5. The lethal order — identity ==
+
+'''Event:''' An order declared Ivo unable to perceive the description required to escape it; he changed his own perceptual capacity. '''Mechanism:''' Self-editing from a retained witness mismatch. '''Implication:''' Some foundational self-properties can be revised. '''Limit:''' His schoolbook then ceased to match his handwriting; the feat cannot prove an unbroken subject survived.
+
+== 6. A home without ownership — conceptual ==
+
+'''Event:''' Refugees excluded by a property rule gained standing to call their shelter home. '''Mechanism:''' Ivo revised the local concept of home while residents testified to its use. '''Implication:''' A category can change practical rights in an account. '''Limit:''' The change did not settle every property dispute or make Ivo morally correct.
+
+== 7. Two rescue reports — logical ==
+
+'''Event:''' Two incompatible reports of one rescue remained usable without making every statement true. '''Mechanism:''' Ivo changed the account's admissible inferences so each report retained its witness. '''Implication:''' Local rules of inference can be altered. '''Limit:''' This does not make contradiction a source of arbitrary power.
+
+== 8. The unrecorded child — ontological ==
+
+'''Event:''' A census that had excluded an unnamed child began to count her as existent. '''Mechanism:''' Ivo changed the register's criterion of existence. '''Implication:''' Ontological status can depend on account rules. '''Limit:''' He did not create an original child, and other accounts may still exclude her.
+
+== 9. The Absolute Attack — semantic ==
+
+'''Event:''' The tribunal's unavoidable, irreversible attack destroyed its indexed defendant; a later Ivo spoke from the gallery. '''Mechanism:''' Readdressing the relation that identified a continuation as the defendant. '''Implication:''' An effect can execute perfectly yet fail to include a revised continuation. '''Limit:''' The defendant died. The record does not prove the later voice belongs to the same consciousness, nor that every attack can be readdressed.
+
+== 10. The fable of Leth — recursive ==
+
+'''Event:''' An omission in an account reading Leth as a fable became testimony within Leth. '''Mechanism:''' Witness transfer across an explicit interpretive relation. '''Implication:''' Ivo can edit some relations among accounts. '''Limit:''' It does not establish command over every account or an infinite hierarchy.
+
+== 11. The Author Event — anti-author ==
+
+'''Event:''' An apparent author claimed every rebellion had been written; Ivo asked who had authored the certainty of that claim. '''Mechanism:''' He exposed a premise in the interpretation of authorship. '''Implication:''' The claim is contestable within the story. '''Limit:''' No version proves Ivo escaped authorship or controls a real writer.
+
+== 12. The impossible arrival — paradox ==
+
+'''Event:''' A city both recorded and denied Ivo's arrival, yet he could speak to witnesses of both reports. '''Mechanism:''' Margin Concordance preserved distinct witness relations. '''Implication:''' Contradictory accounts can be navigated without collapsing into one. '''Limit:''' A contradiction alone does not grant any desired conclusion.
+
+== 13. The rival's response — adaptation ==
+
+'''Event:''' A rival adapted to Ivo's prior revision; Ivo used the rival's response as the next encounter. '''Mechanism:''' The new response left residue. '''Implication:''' Self-Refinement can iterate. '''Limit:''' The record ends before a final result; it does not establish priority over every adaptive entity.
+
+== 14. The archive's tier — comparison ==
+
+'''Event:''' An in-world ranking archive had to display its selection rule beside its tier for Ivo. '''Mechanism:''' Ivo edited the relation from evidence to interpretation in that archive. '''Implication:''' A comparative model depends on what it selects. '''Limit:''' It does not invalidate all rankings or control real readers.
+
+== 15. The untouched cup — emotional ==
+
+'''Event:''' Ivo rejected an offer to settle the color and origin of his anchor by changing the past. '''Mechanism:''' Voluntary restraint under pressure. '''Implication:''' His vow can govern his use of power. '''Limit:''' Refusal does not prove the memory happened, or that leaving it alone was best for others.
+
+== 16. The warm chair — unwritten ==
+
+'''Event:''' A pursuer found Ivo's warmth on a chair and a conversation shaped around an absent participant. '''Mechanism:''' A bounded [[The Unwritten State|Unwritten State]]. '''Implication:''' Consequences can remain when a self-description is withheld. '''Limit:''' Withdrawal threatens the witness needed for Ivo's continuation; universal survival is unestablished.
+
+== Failures and anti-feats ==
+
+The bell correction removed gratitude. The flood diversion cost Teren's friendship. Ivo reconstructed a drowned ferryman whose memories were complete but who could not recognize his husband. He nearly changed Sana's memories under a false rule of implicit consent; she left. An alternate Ivo erased grief from a city by erasing its dead from kinship. These failures matter because stronger editing would not by itself answer whether the new result was just or continuous with what preceded it.
+
+== Interpretation guide ==
+
+'''Canon event''' identifies what a surviving story presents. '''In-universe theory''' explains the event through [[Sovereign/Self-Refinement]]. '''Scaling interpretation''' may compare demonstrated mechanisms with another fictional framework, but it must retain jurisdiction and limits. A claim of "always wins" is not a feat.
+
+{{Sovereign navigation}}
+[[Category:Archive records]]

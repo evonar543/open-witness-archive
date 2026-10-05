@@ -1,0 +1,20 @@
+'''The Unwritten State''' is a bounded withdrawal of part of Sovereign's self-description from an account. It is more disturbing than ordinary invisibility: observers can register consequences without being able to report the missing participant directly. A chair stays warm. A sentence keeps the pause where a name should be. A promise remains owed, although its recipient is difficult to say.
+
+== How it works ==
+
+[[Sovereign/Self-Refinement|Self-Refinement]] normally changes an explicit relation. Here Ivo makes a particular self-description unavailable while preserving a boundary around its effects. The boundary is the residue: witnesses can identify that something is missing without describing what filled the gap. This does not mean a completely propertyless Ivo continues. Too large a withdrawal threatens the ratifying witness required for any later state to count as his.
+
+== The warm chair ==
+
+A pursuer entered a room just after Ivo had been speaking with a woman. The woman turned toward the other chair as if listening. The seat was warm. In the transcript, her answer begins with "As I told—" and then resumes at the next sentence. The pursuer could not identify whom she addressed. When Ivo returned to an explicit description, she recognized his coat but could not say whether he had been in the chair. The archive treats her uncertainty as part of the event, not a gap to be patched.
+
+== Narrative use ==
+
+The Unwritten State makes absence visible through its effects. It can prevent an account from resolving a target if that target depends on a description now withheld. It can also isolate Ivo from the people whose recognition he needs. The horror is that he can save himself by removing precisely the evidence that he was ever there.
+
+== Limits ==
+
+The state has only been shown where a boundary of absence remains. An opponent who erases the boundary as well may leave no route back. A narrator's inability to describe the missing part is a feature of that local account, not proof that every possible observer is unable to know it. The archive cannot confirm that Ivo survives a total withdrawal.
+
+{{Sovereign navigation}}
+[[Category:Mechanics]]

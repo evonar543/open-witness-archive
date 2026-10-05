@@ -1,0 +1,13 @@
+# The Open Witness Archive
+
+Original-fiction archive about Ivo Ren / Sovereign. Read complete, publicly accessible HTML pages. Canon events, in-universe theory, and comparative analysis are distinguished within the text.
+
+- [Archive home](https://open-witness-archive-evonar.vercel.app/)
+- [Sovereign](https://open-witness-archive-evonar.vercel.app/wiki/sovereign/)
+- [History](https://open-witness-archive-evonar.vercel.app/wiki/sovereign/history/)
+- [Self-Refinement](https://open-witness-archive-evonar.vercel.app/wiki/sovereign/self-refinement/)
+- [Feats](https://open-witness-archive-evonar.vercel.app/wiki/sovereign/feats/)
+- [The Unsigned Reply](https://open-witness-archive-evonar.vercel.app/wiki/the-unsigned-reply/)
+- [Sitemap](https://open-witness-archive-evonar.vercel.app/sitemap.xml)
+
+Text adapted from https://open-witness-archive.fandom.com/wiki/Main_Page under CC BY-SA 3.0.

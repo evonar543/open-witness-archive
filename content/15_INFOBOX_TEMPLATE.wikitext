@@ -1,0 +1,27 @@
+<includeonly>{| class="wikitable" style="float:right; width:22em; margin:0 0 1em 1em;"
+|+ {{{name|Sovereign}}}
+|-
+! Birth name
+| {{{birth_name|Unknown}}}
+|-
+! Other names
+| {{{other_names|—}}}
+|-
+! Home
+| {{{home|—}}}
+|-
+! First state
+| {{{first_state|—}}}
+|-
+! Strongest known state
+| {{{known_state|—}}}
+|-
+! Signature object
+| {{{signature_object|—}}}
+|-
+! Central vow
+| {{{central_vow|—}}}
+|}</includeonly><noinclude>
+Publish this source as '''Template:Sovereign infobox''' before publishing [[Sovereign]]. The table is intentionally plain so the article does not depend on a third-party infobox system. A visual revision can be made after rendering the first page.
+[[Category:Templates]]
+</noinclude>

@@ -1,0 +1,62 @@
+'''Self-Refinement''' is the fictional process by which an encounter can become a revision of Sovereign's own description. It is a relation among a current self-description, an opposing condition, an interpretive context, and a surviving witness. It is not a stored list of immunities or a promise that every threat will fail.
+
+<blockquote>S(n+1) = R[S(n), O(n), C(n) | W(n)]</blockquote>
+
+Here ''S'' is a current description of Ivo; ''O'' is an opponent, law, or condition; ''C'' is the account and reading in which they meet; ''W'' is the residue by which a later state can be related to an earlier one; and ''R'' is a proposed and ratified revision. The equation is a fictional notation, not a numerical growth law. Without residue or a witnessable continuation, its next term is uncertain.
+
+== Operational sequence ==
+
+# '''Encounter:''' A condition bears on Ivo. An attack, omission, definition, or rival adaptation may all qualify.
+# '''Residue:''' Some difference remains available: an incompatible testimony, a missing interval with visible edges, or a mismatch between a claim and its address. Perfectly traceless closure offers no clear route.
+# '''Candidate revision:''' Ivo changes a relation in his own description, often the way he can be addressed or counted by the opposing condition. A proposed change may be incoherent.
+# '''Ratification:''' A witness must relate the proposed state to the prior Ivo. Recognition may be contested, and it cannot prove continuity of consciousness.
+# '''Consequence:''' The local threat may cease to apply, while a friendship, obligation, or piece of evidence is lost. Every chosen change increases continuity debt.
+
+This process is analyzed through the [[Sovereign/Axioms|ten axioms]]. They are in-universe theory with objections, not externally proven laws.
+
+== Eight kinds of edit ==
+
+{| class="wikitable"
+! Operation !! What changes !! What a reader sees
+|-
+| Reality editing || An event inside an account || A flood takes another street.
+|-
+| Concept editing || A category used by that account || Refugees can call a place home without owning it.
+|-
+| Logical editing || Permitted inference or relation || Two incompatible rescue reports remain useful without making every statement true.
+|-
+| Narrative editing || The account connecting events || A bell gains the cause missing from its consequences.
+|-
+| Meta-narrative editing || The relation between accounts and their readings || An omission in a fable can testify in Leth.
+|-
+| Ontological editing || What counts as existent in an account || An unrecorded child becomes legible to a census.
+|-
+| Semantic editing || What a statement addresses || A total attack resolves against the defendant it actually named.
+|-
+| Self-editing || The description by which Ivo continues through the other operations || His capacity or target relation changes, leaving him unsure who survived.
+|}
+
+Self-editing is the central operation because all other edits presume an editor who persists across the change. It exposes the deepest cost rather than escaping it.
+
+== Absorbed opposition ==
+
+'''Opposition → information → candidate revision → possible continuation.''' A stronger opponent may reveal a limitation. An opponent outside familiar narrative relations may reveal that the local hierarchy was not universal. A rival reviser can make Ivo's earlier solution obsolete. None of this means Ivo steals the opponent's powers. If the opposition leaves no usable difference, if the accounts cannot interact, or if no witness can connect the proposed states, refinement remains unestablished.
+
+== The address of an absolute attack ==
+
+A claim that an effect destroys "anything" still needs a way to pick out what it destroys in the encounter. In the tribunal episode, the attack targeted a continuous defendant indexed by name, body, and proceeding. Ivo changed the relation by which a subsequent Ivo counted as that defendant. The attack executed against the indexed defendant. It did not weaken or fail. The question of whether the later Ivo is the same consciousness is left open. This does not imply that all absolute effects require the same sort of address.
+
+== Competing self-reference ==
+
+If another entity also revises itself whenever surpassed, the interaction may escalate indefinitely, converge on a common fixed point, split into incomparable continuations, or remain undecidable. A fixed point requires shared rules under which both revisions stabilize. The archive does not assume those rules. Ivo's distinctive route is to inspect the comparison relation when it becomes part of the encounter; a rival could remove that route before he uses it. See [[Sovereign/Philosophy]] and [[The Reader Problem]].
+
+== Mathematical inspiration and boundary ==
+
+Diagonal arguments inspire the idea that a proposed complete list can expose an omitted construction under specified conditions. They do not prove a character escapes every possible list. Gödel's theorems concern particular formal systems and do not establish omnipotence. Fixed-point language is useful for rival revisers only when a well-defined operator and suitable conditions exist. Model theory helps distinguish a statement from its interpretation; Sovereign's ability to change that relation is fictional extrapolation.
+
+== Jurisdiction and uncertainty ==
+
+An edit works inside an account or an established relation between accounts. Being named in a higher account is not automatically enough to control it. An allegedly complete authority over every valid account could block every continuation; the surviving stories have not tested that proposition. The Open Witness refuses finality as a practice, not as a logically proven immunity.
+
+{{Sovereign navigation}}
+[[Category:Mechanics]]

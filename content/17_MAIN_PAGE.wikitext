@@ -1,0 +1,44 @@
+<mainpage-leftcolumn-start />
+<div style="text-align:center; padding:0.6em 0;">
+<big>'''The Open Witness Archive'''</big><br />
+''An original-fiction archive of memory, revision, and the lives a correction can change.''
+</div>
+
+An evacuation bell rang in Leth. People remembered the sound and the lives it saved, but no one had rung it. [[Sovereign|Ivo Ren]], a municipal corrections clerk, found the missing cause and put it back. The bell rang again. A child was safe, and the child's mother no longer remembered the person who had rescued him.
+
+That was Ivo's first lesson in [[Sovereign/Self-Refinement|revision]]: a better outcome can take something real away. Years later, people called him Sovereign because even a final account of what he was could sometimes be revised. He still carries a brass frame from the corrections office, still worries about a cup in his mother's kitchen, and still cannot prove that the one remembering his childhood is the one who lived it.
+
+This archive keeps the stories, records, contradictions, and refusals that a list of powers would miss.
+
+== Start with the story ==
+
+* [[Sovereign]] — the full account of Ivo's life, method, losses, and surviving evidence
+* [[Sovereign/History]] — the human life, first discovery, and later transformations
+* [[The Anchor Memory]] — the chipped cup he refuses to edit
+* [[Sovereign/Relationships]] — Tala, Mira, Sana, Teren, and those changed by his repairs
+
+== Explore the setting ==
+
+* [[Sovereign/Cosmology]] — world, account, reading, and witness
+* [[Sovereign/Self-Refinement]] — the mechanism and its conditions
+* [[The Unwritten State]] — an absence with consequences
+* [[The Reader Problem]] — incompatible versions made by interpretation
+
+<mainpage-endcolumn /><mainpage-rightcolumn-start />
+== Read the archive's evidence ==
+
+* [[Sovereign/Feats]] — sixteen events, each with a mechanism and a limit
+* [[Sovereign/Axioms]] — ten proposed rules and their objections
+* [[Sovereign/Comparative model]] — careful cross-fiction analysis
+* [[Sovereign/Comparative model/Essential Divinity]] — a sourced World of Darkness case study
+* [[Sovereign/Quotes]] — dialogue from surviving accounts
+
+== How to read a claim ==
+
+The archive separates '''canon events''', '''in-universe theories''', and '''scaling interpretations'''. A witness can be mistaken. An axiom can be disputed. An impressive interpretation does not become an event just because it sounds final. Late-story pages discuss the ferryman, the Closed King, and the apparent Author and therefore contain major revelations.
+
+<blockquote>"A correction is an event. I forgot that when I was young." — Ivo Ren</blockquote>
+
+{{Sovereign navigation}}
+<mainpage-endcolumn />
+__NOTOC__

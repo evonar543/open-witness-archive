@@ -1,0 +1,7 @@
+<div class="toccolours" style="padding:0.6em; margin:0.8em 0;">
+'''The Open Witness Archive''' · [[Main Page|Portal]] · [[Sovereign|Ivo Ren]] · [[Sovereign/History|History]] · [[Sovereign/Self-Refinement|Self-Refinement]] · [[Sovereign/Abilities|Abilities]] · [[Sovereign/Cosmology|Cosmology]] · [[Sovereign/Axioms|Axioms]] · [[Sovereign/Feats|Feats]] · [[Sovereign/Philosophy|Philosophy]] · [[Sovereign/Relationships|Relationships]] · [[The Anchor Memory|Anchor]] · [[The Unwritten State|Unwritten]] · [[Sovereign/Comparative model|Comparative model]] · [[Sovereign/Quotes|Quotes]]
+</div>
+<noinclude>
+Navigation for core archive pages. Publish this source as '''Template:Sovereign navigation'''. The template uses only basic wikitext and a small HTML container; remove the container if the community's parser or theme renders it poorly.
+[[Category:Templates]]
+</noinclude>
