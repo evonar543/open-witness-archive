@@ -28,6 +28,10 @@ Two incompatible accounts can be aligned so that each retains its own witness. T
 
 Ivo can show a harmed person more than one possible repair and allow refusal. It is a procedure he adopted after nearly changing Sana's memories under an account that treated silence as consent. The person may choose a life Ivo believes worse. The ability does not tell him whether a reconstructed person is the original or whether consent survives radical identity change.
 
+== The Unowned Answer ==
+
+During [[The Last Mercy|the shelter encounter]], Ivo extended Counterfactual Mercy into a self-revision. He withdrew his own authority to choose another person's response and kept two incompatible accounts of her life available long enough for her to answer without either account deciding for her. The answer became a witness inside the presence's claim to act for everyone. The presence could still erase it, but doing so would betray the mercy it had promised. This technique can defeat a totalizing act whose author is committed to the good of the people it absorbs. It cannot force an indifferent or openly coercive power to care, and it risks losing a repair Ivo desperately wants.
+
 == The Last Word ==
 
 Ivo can ask an apparently unconditional effect to state its actual resolution conditions. The result may expose a mismatch between an absolute claim and the target relation through which it operates. This is an offensive semantic technique when the mismatch can be acted upon. It does not defeat a truthful, fully scoped claim by wordplay alone.
@@ -45,6 +49,7 @@ Every self-edit can weaken evidence that the new Ivo is the same subject. A succ
 * [[Sovereign/Feats]] documents the specific demonstrations and their limits.
 * [[Sovereign/Axioms]] gives the in-universe framework and objections.
 * [[Sovereign/Philosophy]] treats the ethical and identity costs.
+* [[The Last Mercy]] records the Unowned Answer against a presence that could have completed every account in the archive.
 
 {{Sovereign navigation}}
 [[Category:Mechanics]]

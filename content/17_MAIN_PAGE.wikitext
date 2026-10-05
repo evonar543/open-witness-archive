@@ -27,10 +27,10 @@ This archive keeps the stories, records, contradictions, and refusals that a lis
 <mainpage-endcolumn /><mainpage-rightcolumn-start />
 == Read the archive's evidence ==
 
-* [[Sovereign/Feats]] — sixteen events, each with a mechanism and a limit
+* [[Sovereign/Feats]] — seventeen events, each with a mechanism and a limit
 * [[Sovereign/Axioms]] — ten proposed rules and their objections
 * [[Sovereign/Comparative model]] — careful cross-fiction analysis
-* [[Sovereign/Comparative model/Essential Divinity]] — a sourced World of Darkness case study
+* [[The Last Mercy]] — a late encounter with a presence able to complete every account
 * [[Sovereign/Quotes]] — dialogue from surviving accounts
 
 == How to read a claim ==

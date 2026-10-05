@@ -56,9 +56,9 @@ Each entry gives the source of the claim's strength, why an ordinary opponent wo
 
 Suppose another being's rule is "I automatically surpass anything that surpasses me." If both revision rules use the same ordering and preserve a common witness, responses may form an infinite sequence. A fixed point is possible only if the rules admit a stable joint state. If each rule negates the other's stability, deadlock or divergence follows. If "surpass" refers to different properties in each account, the beings may be incomparable. Ivo's best route is to revise the *meaning of comparison* as part of the encounter. That is a distinctive breadth of operation, not a proof of semantic dominance. The rival may do the same, or remove the shared relation before he can use it.
 
-== Essential Divinity case ==
+== A being without an exterior ==
 
-The [[Sovereign/Comparative model/Essential Divinity|Essential Divinity comparison]] tests a difficult World of Darkness example. It gives Ivo a concrete victory condition—continuing as a distinct, answerable person after an attempted finalization of his agency—and derives a possible route from the mechanism already documented in this archive. It also identifies the assumptions under which that route fails. This is a hypothetical analysis, not a canon encounter or an unconditional verdict over another work.
+A presence that encompasses every world, account, reading, and witness cannot be defeated by having Ivo step outside it. The [[The Last Mercy|shelter encounter]] tests a harder route. The presence could complete every life as an expression of one will, but it claimed to do so as mercy for the people affected. Ivo's established escapes failed. He made one person's answer unowned by either side, so the presence had to choose between its totalizing act and its own purpose. It withdrew. That is an in-story victory over a particular being with a particular aim, not a rule that every being of equal scope can be made to yield. A power that does not care whether its act is mercy could erase the answer and its witnesses.
 
 == The limits of non-finality ==
 

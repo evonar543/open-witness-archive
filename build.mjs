@@ -37,7 +37,7 @@ const pages = [
   ['29_CATEGORY_QUOTATIONS.wikitext', 'Category:Quotations'],
   ['30_CATEGORY_TEMPLATES.wikitext', 'Category:Templates'],
   ['31_CATEGORY_ARCHIVE_INDEX.wikitext', 'Category:Archive index'],
-  ['33_ESSENTIAL_DIVINITY_COMPARISON.wikitext', 'Sovereign/Comparative model/Essential Divinity'],
+  ['33_THE_LAST_MERCY.wikitext', 'The Last Mercy'],
   ['34_THE_UNSIGNED_REPLY.wikitext', 'The Unsigned Reply']
 ];
 
@@ -161,7 +161,7 @@ const byTitle = new Map(info.map(x => [x.title, x]));
 const navGroups = [
   ['Start here', [portalTitle, 'Sovereign', 'Sovereign/History', 'The Anchor Memory']],
   ['Explore', ['Sovereign/Self-Refinement', 'Sovereign/Abilities', 'Sovereign/Cosmology', 'Sovereign/Feats', 'The Reader Problem']],
-  ['Archive', ['The Measure', 'The Closed King', 'The Unwritten State', 'Sovereign/Quotes', 'Sovereign/Comparative model']]
+  ['Archive', ['The Measure', 'The Closed King', 'The Last Mercy', 'The Unwritten State', 'Sovereign/Quotes', 'Sovereign/Comparative model']]
 ];
 const sidebar = current => navGroups.map(([label, titles]) => `<div class="side-title">${esc(label)}</div>${titles.map(t => `<a class="${t === current ? 'current' : ''}" href="${urlFor(t)}">${esc(displayTitle(t))}</a>`).join('')}`).join('');
 const footer = `<footer class="site-footer">The Open Witness Archive · Original fiction · Text adapted from the <a href="https://open-witness-archive.fandom.com/wiki/Main_Page">Fandom edition</a> under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</footer>`;
