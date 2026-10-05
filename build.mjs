@@ -51,7 +51,7 @@ const slug = s => String(s).normalize('NFKD').replace(/[\u0300-\u036f]/g, '').re
 const urlFor = title => title === portalTitle ? '/' : '/wiki/' + title.split('/').map(slug).join('/') + '/';
 const titleFromTarget = target => target === 'Main Page' ? portalTitle : target;
 const displayTitle = title => title.startsWith('Category:') ? title.slice(9) : title.startsWith('Template:') ? title.slice(9) : title.replace('Sovereign/', '');
-const section = title => title.startsWith('Category:') ? 'Categories' : title.startsWith('Template:') ? 'Templates' : title === portalTitle ? 'Home' : title.includes('Comparative') ? 'Comparative reading' : title === 'The Unsigned Reply' ? 'Archive record' : title.startsWith('Sovereign/') ? 'Sovereign' : 'Archive record';
+const section = title => title.startsWith('Category:') ? 'Categories' : title.startsWith('Template:') ? 'Templates' : title === portalTitle ? 'Home' : title === 'The Unconditioned Draft' ? 'Cosmology' : title.includes('Comparative') ? 'Comparative reading' : title === 'The Unsigned Reply' ? 'Archive record' : title.startsWith('Sovereign/') ? 'Sovereign' : 'Archive record';
 const original = title => fandom + encodeURI(title.replaceAll(' ', '_'));
 
 function inline(raw, refs) {
