@@ -75,7 +75,7 @@ function inline(raw, refs) {
   s = s.replace(/<br\s*\/?\s*>/gi, () => hold('<br>'));
   s = s.replace(/<\/?big>/gi, m => hold(m.startsWith('</') ? '</span>' : '<span class="large-text">'));
   s = esc(s);
-  s = s.replace(/'''([^']+?)'''/g, '<strong>$1</strong>').replace(/''([^']+?)''/g, '<em>$1</em>');
+  s = s.replace(/'''([\s\S]+?)'''/g, '<strong>$1</strong>').replace(/''([\s\S]+?)''/g, '<em>$1</em>');
   return s.replace(/\u001f(\d+)\u001f/g, (_, i) => held[Number(i)]);
 }
 
