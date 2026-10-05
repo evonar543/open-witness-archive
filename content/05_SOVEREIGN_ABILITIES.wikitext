@@ -32,13 +32,17 @@ Ivo can show a harmed person more than one possible repair and allow refusal. It
 
 During [[The Last Mercy|the shelter encounter]], Ivo extended Counterfactual Mercy into a self-revision. He withdrew his own authority to choose another person's response and kept two incompatible accounts of her life available long enough for her to answer without either account deciding for her. The answer became a witness inside the presence's claim to act for everyone. The presence could still erase it, but doing so would betray the mercy it had promised. This technique can defeat a totalizing act whose author is committed to the good of the people it absorbs. It cannot force an indifferent or openly coercive power to care, and it risks losing a repair Ivo desperately wants.
 
+== The Prior Answer ==
+
+Ivo can prepare a conditional self-revision after encountering a threat but before it resolves. In [[The White Interval]], a closing force removed the first Ivo and every later trace that could have guided a response. The candidate he had already formed resolved with that act, making its own completion the condition for a successor who could interrupt its next act. This is neither a hidden backup nor automatic regeneration. The first Ivo ended; the successor bore an obligation and could not recover a reliable memory of his mother's cup. Preparation requires enough contact to understand what must change, and an opponent able to govern the candidate's resolution could still close the route.
+
 == The Last Word ==
 
 Ivo can ask an apparently unconditional effect to state its actual resolution conditions. The result may expose a mismatch between an absolute claim and the target relation through which it operates. This is an offensive semantic technique when the mismatch can be acted upon. It does not defeat a truthful, fully scoped claim by wordplay alone.
 
 == Passive and defensive pattern ==
 
-Ivo tends to notice unexplained differences and can often revise before a local effect fully resolves. This is conditional. Awareness, time, and a surviving witness may be absent. A pre-causal attack, information erasure, or total closure is dangerous precisely because it can remove the route by which refinement would begin. Later witnesses may still detect a boundary of absence, but the story never assumes they always will.
+Ivo tends to notice unexplained differences and can often revise before a local effect fully resolves. Responsive revisions need a difference he can still examine. The Prior Answer instead uses information acquired ''before'' closure; a missing witness afterward does not cancel it. Neither route works without an encounter, a coherent change, and a resolution the opponent has not foreclosed. A pre-causal attack may deny preparation altogether.
 
 == Costs and limits ==
 
@@ -50,6 +54,7 @@ Every self-edit can weaken evidence that the new Ivo is the same subject. A succ
 * [[Sovereign/Axioms]] gives the in-universe framework and objections.
 * [[Sovereign/Philosophy]] treats the ethical and identity costs.
 * [[The Last Mercy]] records the Unowned Answer against a presence that could have completed every account in the archive.
+* [[The White Interval]] records a prepared revision against an indifferent closing force.
 
 {{Sovereign navigation}}
 [[Category:Mechanics]]

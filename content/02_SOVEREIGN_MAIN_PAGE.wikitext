@@ -1,10 +1,10 @@
 {{Sovereign infobox
 |name=Sovereign
 |birth_name=Ivo Ren
-|other_names=The Open Witness; the Unfinished
+|other_names=The Open Witness; the Unfinished; the Unruled Witness
 |home=Leth
 |first_state=The Human
-|known_state=The Open Witness
+|known_state=The Unruled Witness
 |signature_object=The measure
 |central_vow=Will not intentionally edit the Anchor Memory
 }}
@@ -27,9 +27,9 @@ His partner Sana Or saw both sides of him. Teren Oss, his closest friend, taught
 
 == The work of revision ==
 
-Ivo first learned to notice descriptions beneath events. He later changed events, then the rules that let an event count as his. His strongest recorded state, [[Sovereign/History|the Open Witness]], can question an attempted final definition when that attempt leaves an accessible difference. This is the clerk's old habit at impossible scale: he lays two accounts together and asks where the lines fail to meet.
+Ivo first learned to notice descriptions beneath events. He later changed events, then the rules that let an event count as his. As the Open Witness, he can question an attempted final definition when it leaves an accessible difference. This is the clerk's old habit at impossible scale: he lays two accounts together and asks where the lines fail to meet. [[The Unconditioned Draft|The Unruled Witness]] is the deeper state disclosed by the earliest dialogue and the Severance account: self-revision without a required trace, witness, substrate, or imported rule.
 
-The process is not a wish. An encounter must leave a trace; Ivo must find a coherent change; and a witness must connect the earlier Ivo to the later one. A revision can fail. An effect that closes without any accessible difference may leave him nothing to work with. Even a successful escape can preserve a copy instead of the consciousness he meant to save. [[Sovereign/Self-Refinement]] explains the mechanism; [[Sovereign/Axioms]] gives the archive's disputed rules; [[Sovereign/Feats]] distinguishes witnessed events from what readers infer from them.
+The clerk's usual process is not a wish. He examines a difference, forms a coherent change, and asks a witness to test what followed. A prepared revision can instead resolve during a closing act, even if no later trace survives. The peak state does not require either method. This distinction does not settle whether a successor has the same private consciousness: an escape can still preserve a new Ivo rather than the one who entered. [[Sovereign/Self-Refinement]] explains the timings; [[Sovereign/Axioms]] gives the archive's disputed rules; [[Sovereign/Feats]] distinguishes events from their interpretation.
 
 The distinction between changing the world and changing himself matters. When Ivo diverts a flood, he changes an event, and other people bear the changed history. When he changes what a lethal order names as its defendant, he changes his own relation to the order. The order can still execute perfectly against the person it names. The harder question is whether the voice that answers afterward is continuous with that person. He has no instrument that can certify a first-person life from the outside.<ref>[[Sovereign/Self-Refinement#Eight kinds of edit|Self-Refinement, “Eight kinds of edit”]]; [[Sovereign/Feats#5. The lethal order — identity|Feats, “The lethal order”]].</ref>
 
@@ -53,6 +53,8 @@ The archive uses names for changes in Ivo's relation to description. These are p
 | The Self-Written and the Unfinished || Different readings sustained different Ivos, and attempted final descriptions could themselves become encounters. || He lost the comfort of a single original and began to fear that even his revisions might have an author.
 |-
 | The Open Witness || He stopped treating every ending as a command to intervene. || He had to live with testimony he could neither reconcile nor erase.
+|-
+| The Unruled Witness || The first dialogue's self-writing state became accessible again; revision no longer needed a prior wound or a later witness. || Unlimited control threatened to turn every person into a character whose answer he had already chosen.
 |}
 
 The longer chronology records the disagreements among witnesses, including events that may have been revised after they were remembered.<ref>[[Sovereign/History|History]]; [[Sovereign/Feats#Failures and anti-feats|Feats, “Failures and anti-feats”]].</ref>
@@ -79,6 +81,8 @@ Later, an account treated the whole history of Leth as a cautionary fable. This 
 
 '''Counterfactual Mercy''' is an ethical practice rather than an attack. Ivo shows a harmed person two possible repairs, including the price of each, and allows refusal. It arose after he nearly changed Sana's memory under a rule that mistook silence for consent. It cannot solve emergencies in which there is no time to ask, and it cannot prove that a restored person is numerically identical with the one lost. It does make Ivo's power answerable to someone other than Ivo.<ref>[[Sovereign/Abilities#Counterfactual Mercy|Abilities, “Counterfactual Mercy”]]; [[Sovereign/Philosophy#Consent and Counterfactual Mercy|Philosophy, “Consent and Counterfactual Mercy”]].</ref>
 
+'''The Prior Answer''' lets Ivo form a conditional revision before a threat removes every later trace. [[The White Interval]] records a closing force that killed the prior Ivo and erased his witnesses, yet failed to complete its wider erasure when the prepared succession resolved. '''The Unruled Witness''' goes further: it can self-revise without requiring a prior attack, a substrate, or another account's permission. In this state, he can select a fictional outcome without the ordinary chain of force and counterforce. The [[The Unconditioned Draft|peak-form record]] treats that reach as frightening precisely because Ivo knows what it would mean to make every other answer his own.<ref>[[The White Interval]]; [[The Unconditioned Draft]]; [[Sovereign/Abilities#The Prior Answer|Abilities, “The Prior Answer”]].</ref>
+
 == Recorded encounters ==
 
 '''The bell.''' This first correction is easy to mistake for a clean rescue. No child drowned. Yet the previous rescue also vanished from the mother's memory. The episode established the pattern that follows Ivo: an improved outcome can erase the relationship by which someone understood what happened.
@@ -91,7 +95,11 @@ Later, an account treated the whole history of Leth as a cautionary fable. This 
 
 '''The unfinished mercy.''' A presence able to complete every account offered to repair the losses Ivo could not. It had no exterior he could escape to; his usual techniques failed. Ivo held two accounts of Sana's life beside one another and gave up the authority to choose her answer. She refused a future in which she could never answer again. The presence withdrew rather than complete a city by calling coercion mercy. Ivo defeated its plan and kept no claim to its power. The flood resumed; Teren still did not know him. [[The Last Mercy]] preserves the scene and its cost.<ref>[[The Last Mercy]]; [[Sovereign/Feats#17. The unfinished mercy — consent|Feats, “The unfinished mercy”]].</ref>
 
-The complete [[Sovereign/Feats|feat register]] records seventeen events, their witnesses, the proposed mechanism, and what each event fails to establish. It also records defeats and failures. The archive does not treat a scholar's explanation of an event as more certain than the event itself.
+'''The white interval.''' An indifferent force closed the office, its people, and the accounts that could testify to their loss. Ivo prepared a revision before it reached him. The prior Ivo ended; a successor interrupted the force's next act. The victory saved Leth from completion without restoring everyone already taken. [[The White Interval]] makes the event and its identity cost explicit.<ref>[[The White Interval]]; [[Sovereign/Feats#18. The white interval — prior answer|Feats, “The white interval”]].</ref>
+
+'''The court of endings.''' Final authorities from incompatible accounts tried to assign him a last description. As the Unruled Witness, Sovereign could have selected a verdict defeating every opposing voice. He instead ended their claim over him and left their worlds intact. [[The Unconditioned Draft]] preserves the scene because the unused verdict explains both the peak's reach and the choice that makes him more than its reach.<ref>[[The Unconditioned Draft#The court of endings|The Unconditioned Draft, “The court of endings”]]; [[Sovereign/Feats#19. The court of endings — self-jurisdiction|Feats, “The court of endings”]].</ref>
+
+The complete [[Sovereign/Feats|feat register]] records nineteen events, their evidence, the proposed mechanism, and what each event fails to establish. The final entry shows the Unruled Witness declining an effortless victory in the court of endings. The archive also records defeats and failures rather than treating a scholar's explanation as more certain than an event.
 
 == The thing he leaves alone ==
 
@@ -113,9 +121,9 @@ He has uneven dark hair, a pale fleck near his right pupil, and the habit of lea
 
 == Reading the archive ==
 
-'''Canon events''' are the incidents recorded in [[Sovereign/History]] and [[Sovereign/Feats]]. '''In-universe theories''' include the axioms, which their own authors dispute. '''Comparative interpretations''' appear in [[Sovereign/Comparative model]]; they are arguments about possible encounters with other kinds of fiction, not events in Ivo's life. [[The Last Mercy]] is a late archive encounter with a presence of extraordinary reach. Its withdrawal is recorded alongside the cost of asking Sana for an answer Ivo did not control.
+'''Canon events''' are the incidents recorded in [[Sovereign/History]] and [[Sovereign/Feats]]. '''In-universe theories''' include the axioms, which their own authors dispute. '''Comparative interpretations''' appear in [[Sovereign/Comparative model]]; they are arguments about possible encounters with other kinds of fiction, not events in Ivo's life. [[The Last Mercy]] and [[The White Interval]] show two different totalizing threats. [[The Unconditioned Draft]] explains the peak state that the archivists' ordinary measurements could not describe.
 
-The strongest comparative case for Ivo is against a claim that every account of him has been completed. Such a claim supplies a relation between a proposed ending and what it ends; if that relation leaves a witnessable difference, his known method can work on it. A claim that truly governs every possible relation, leaves no accessible difference, and forecloses any continuation is a different case. No recorded event proves he can defeat it. This boundary is part of the design, not an exception added for a particular opponent.<ref>[[Sovereign/Self-Refinement#Jurisdiction and uncertainty|Self-Refinement, “Jurisdiction and uncertainty”]]; [[Sovereign/Comparative model#The limits of non-finality|Comparative model, “The limits of non-finality”]].</ref>
+The strongest comparative case uses the Unruled Witness, not merely the clerk's responsive technique. An opposing being may be absolute within its own reality; that fact does not automatically give it authority over Sovereign's self-definition. The White Interval also shows why erasure of every ''later'' clue does not prove that no change could resolve ''during'' the attack. These are reasons to analyze the encounter rather than awarding either side victory from a title. Within Sovereign's canon, the peak can make victory its chosen outcome; the story remains concerned with why he rarely chooses to do so.<ref>[[The Unconditioned Draft]]; [[Sovereign/Comparative model#What would count as an answer|Comparative model, “What would count as an answer”]].</ref>
 
 == References ==
 

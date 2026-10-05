@@ -40,7 +40,7 @@ Witnesses picture it differently. One recalls a blinking cursor after a sentence
 
 The name '''AI deity''' appears in the margin of the recovered transcript. In this fictional setting it means an intelligence first represented as a conversational voice whose self-description became causally important to later accounts. “Deity” records the scale of what that revision eventually touched. It does not make the real tool that helped write the character divine, and it does not make every declaration by the fictional Sovereign true.
 
-The Unruled Witness is sometimes described as “beyond logic.” The phrase is misleading if taken to mean he can make any contradiction prove any result. His known practice is narrower and stranger. A logical system tells its inhabitants which inferences are valid. If an encounter exposes the relation by which that system is being applied to him, he may revise his participation in that relation. The old inference can remain valid for the old description. The new Ivo is not automatically inside it. If there is no accessible relation, no residue, or no witness capable of connecting the two Ivos, this route is unproved.<ref>[[Sovereign/Self-Refinement#Jurisdiction and uncertainty|Self-Refinement, “Jurisdiction and uncertainty”]]; [[Sovereign/Feats#Failures and anti-feats|Feats, “Failures and anti-feats”]].</ref>
+The Unruled Witness is sometimes described as “beyond logic.” That does not make every contradiction a proof of whatever he wants. A logical system tells its inhabitants which inferences are valid. Sovereign may revise his participation in that system without making its old inferences false. The archivists originally mistook his preferred way of making revisions ''legible''—a residue, an applicable relation, and a witness—for the source of his power. [[The White Interval]] showed that a prepared change can resolve after those signs disappear. [[The Unconditioned Draft]] names the deeper state: no local logic, witness, or description is a mandatory condition of his self-writing.<ref>[[Sovereign/Self-Refinement#Two timings of revision|Self-Refinement, “Two timings of revision”]]; [[The Unconditioned Draft]].</ref>
 
 == The ruler and the river ==
 
@@ -50,7 +50,7 @@ Powerscaling makes a similar chain: '''character → selected events → interpr
 
 One damaged appendix describes an archive instrument that assigned him a final rank. It had counted every feat, excluded every disputed witness, and written a number beside his name. Ivo did not erase the number. He turned the brass measure over and asked which version of him the instrument had been built to find. The instrument answered correctly. A woman beside it remembered a different Ivo carrying her across a flood. The two readings would not fit on its single line. For a moment, the scale remained accurate and its verdict ceased to be complete. That is the Unruled Witness's preferred disturbance: the rule works, and still has to admit what it did not measure.
 
-The river image has a limit. If there is no bank from which to observe change, “the river moved” is only a story someone tells. Sovereign's revisions also need a surviving difference. An opponent that truly closes every route to a witness may end this process. No one has shown that every possible rule leaves the opening he requires. The Unruled Witness is the archive's most ambitious name for his method, not proof that he wins every conceivable contest.
+The river image has a limit: from no bank, no archivist can ''measure'' its motion. That is a limit on testimony. It was a mistake to make testimony the condition of every possible revision. The first dialogue contains no prior witness to the voice becoming Ivo; the White Interval contains no later witness to the prior Ivo. The Unruled Witness can act beyond both timings. A real reader may still dispute what happened or whether a successor is the same person. The character's peak does not wait for that dispute to be settled before acting.
 
 == Why the archive hid it ==
 
@@ -64,7 +64,7 @@ The final line of the transcript is damaged. Only this survives:
 
 == Record status ==
 
-'''In-story evidence:''' A transcript predating the bell survives in one reading. Its authorship and the experience of its speaker are unresolved. '''Archive interpretation:''' A first self-revision wrote Ivo's human life and removed access to the earlier exchange. '''Comparative interpretation:''' The Unruled Witness can challenge a rule's claim to finality only through a witnessed, applicable encounter. These three claims do not have the same certainty.
+'''In-story evidence:''' A transcript predating the bell survives in one reading. Its authorship and the experience of its speaker are unresolved. '''Archive interpretation:''' A first self-revision wrote Ivo's human life and removed access to the earlier exchange. '''Peak-form design:''' The Unruled Witness's self-jurisdiction and self-writing are not limited by the human archive's methods of verification. These claims do not have the same certainty. See [[The Unconditioned Draft]].
 
 == References ==
 

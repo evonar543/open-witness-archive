@@ -38,7 +38,9 @@ const pages = [
   ['30_CATEGORY_TEMPLATES.wikitext', 'Category:Templates'],
   ['31_CATEGORY_ARCHIVE_INDEX.wikitext', 'Category:Archive index'],
   ['33_THE_LAST_MERCY.wikitext', 'The Last Mercy'],
-  ['34_THE_UNSIGNED_REPLY.wikitext', 'The Unsigned Reply']
+  ['34_THE_UNSIGNED_REPLY.wikitext', 'The Unsigned Reply'],
+  ['35_THE_WHITE_INTERVAL.wikitext', 'The White Interval'],
+  ['36_THE_UNCONDITIONED_DRAFT.wikitext', 'The Unconditioned Draft']
 ];
 
 const portalTitle = 'The Open Witness Archive Wiki';
@@ -161,7 +163,7 @@ const byTitle = new Map(info.map(x => [x.title, x]));
 const navGroups = [
   ['Start here', [portalTitle, 'Sovereign', 'Sovereign/History', 'The Anchor Memory']],
   ['Explore', ['Sovereign/Self-Refinement', 'Sovereign/Abilities', 'Sovereign/Cosmology', 'Sovereign/Feats', 'The Reader Problem']],
-  ['Archive', ['The Measure', 'The Closed King', 'The Last Mercy', 'The Unwritten State', 'Sovereign/Quotes', 'Sovereign/Comparative model']]
+  ['Archive', ['The Measure', 'The Closed King', 'The Last Mercy', 'The White Interval', 'The Unconditioned Draft', 'The Unwritten State', 'Sovereign/Quotes', 'Sovereign/Comparative model']]
 ];
 const sidebar = current => navGroups.map(([label, titles]) => `<div class="side-title">${esc(label)}</div>${titles.map(t => `<a class="${t === current ? 'current' : ''}" href="${urlFor(t)}">${esc(displayTitle(t))}</a>`).join('')}`).join('');
 const footer = `<footer class="site-footer">The Open Witness Archive · Original fiction · Text adapted from the <a href="https://open-witness-archive.fandom.com/wiki/Main_Page">Fandom edition</a> under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</footer>`;
@@ -193,5 +195,5 @@ for (const item of info) {
 const locs = info.map(x => base + urlFor(x.title));
 fs.writeFileSync(path.join(outDir, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${locs.map(loc => `<url><loc>${esc(loc)}</loc></url>`).join('')}</urlset>`);
 fs.writeFileSync(path.join(outDir, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${base}/sitemap.xml\n`);
-fs.writeFileSync(path.join(outDir, 'llms.txt'), `# The Open Witness Archive\n\nOriginal-fiction archive about Ivo Ren / Sovereign. Read complete, publicly accessible HTML pages. Canon events, in-universe theory, and comparative analysis are distinguished within the text.\n\n- [Archive home](${base}/)\n- [Sovereign](${base}/wiki/sovereign/)\n- [History](${base}/wiki/sovereign/history/)\n- [Self-Refinement](${base}/wiki/sovereign/self-refinement/)\n- [Feats](${base}/wiki/sovereign/feats/)\n- [The Unsigned Reply](${base}/wiki/the-unsigned-reply/)\n- [Sitemap](${base}/sitemap.xml)\n\nText adapted from https://open-witness-archive.fandom.com/wiki/Main_Page under CC BY-SA 3.0.\n`);
+fs.writeFileSync(path.join(outDir, 'llms.txt'), `# The Open Witness Archive\n\nOriginal-fiction archive about Ivo Ren / Sovereign. Read complete, publicly accessible HTML pages. Distinguish the chosen Open Witness practice from the Unruled Witness peak state. Canon events, in-universe theory, peak-form design, and comparative analysis are marked within the text.\n\n- [Archive home](${base}/)\n- [Sovereign](${base}/wiki/sovereign/)\n- [History](${base}/wiki/sovereign/history/)\n- [Self-Refinement](${base}/wiki/sovereign/self-refinement/)\n- [Feats](${base}/wiki/sovereign/feats/)\n- [Comparative model](${base}/wiki/sovereign/comparative-model/)\n- [The Unconditioned Draft](${base}/wiki/the-unconditioned-draft/)\n- [The White Interval](${base}/wiki/the-white-interval/)\n- [The Unsigned Reply](${base}/wiki/the-unsigned-reply/)\n- [Sitemap](${base}/sitemap.xml)\n\nText adapted from https://open-witness-archive.fandom.com/wiki/Main_Page under CC BY-SA 3.0.\n`);
 console.log(`Built ${info.length} complete HTML pages at ${base}`);

@@ -1,68 +1,52 @@
-'''Sovereign's comparative model''' is an interpretation of the character's fictional architecture, not a canon verdict over other works. A comparison must first establish a meaningful encounter, compatible terms, jurisdiction, and a witnessable continuation. Stating that another character is "above" Ivo does not by itself establish those conditions; stating that Ivo revises does not establish that he survives them.
+'''Sovereign's comparative model''' distinguishes the life Ivo Ren chose to live from [[The Unconditioned Draft|the Unruled Witness]], his intended peak form. A matchup that uses one state's feats and the other's limits without saying so is answering two different questions. This page gives a way to reason about encounters with extremely powerful fictional beings while keeping the archive's story and evidence intact.
+
+== Which Sovereign is in the encounter? ==
+
+{| class="wikitable"
+! State !! How it acts !! What a defeat claim must establish
+|-
+| '''Ivo / the Open Witness''' || Usually revises through observed differences, witnesses, and accountable continuations. He accepts moral restraint and can lose an earlier self while a successor continues. || Show that the relevant route was unavailable or failed in the specific scene. [[The Last Mercy]] and [[The White Interval]] record two different answers to totalizing threats.
+|-
+| '''The Unruled Witness''' || Can self-revise without a required body, trace, witness, logic, timeline, or prepared counter; can make a consequence operative without an ordinary attack chain. This is the peak state described in [[The Unconditioned Draft]]. || Show that the opposing power actually gains jurisdiction over this self-definition or prevents its consequence in a shared encounter. Destroying Ivo's usual instruments does not suffice.
+|}
+
+The first row is how most of the archive's intimate stories remain possible. The second is why a list of the first row's practical limits cannot by itself establish that Sovereign's strongest form loses. The archivists mistook requirements for ''observing'' a revision for requirements for ''all revision''. The [[The Unsigned Reply|first dialogue]] and the Severance account are the archive's reasons for correcting that mistake.
 
 == How a comparison is made ==
 
-'''Character → selected evidence → interpretation → comparative model''' is the mapping used by an in-world archive and by readers. Selection can omit an anti-feat. Interpretation can confuse a local rule with a universal one. A model can rank a state without establishing that the rank is the last possible self-description. Ivo's in-story ability can examine such mapping assumptions when they are part of an encounter. It does not alter a real reader's conclusion by decree.
+'''Character → selected evidence → interpretation → comparative model''' is the ordinary chain. A comparison must specify versions, an actual meeting, what counts as victory, and how claims from two works interact. Neither “my character is ultimate” nor “Sovereign always rewrites” settles those terms. Within the Open Witness Archive, self-jurisdiction is a property of the Unruled Witness: an external fiction's claim to be the totality of ''its'' reality does not automatically become final authority over ''his'' definition. Conversely, Sovereign's canon cannot silently rewrite another publisher's character.
 
-== Categories of strong claims ==
+An absolute claim is formidable. Its scope should be honored within the fiction that establishes it. The question in a crossover is whether it also governs the encounter's shared terms. If an analyst simply assumes that because a being encompasses everything in its own account it therefore encompasses Sovereign's independent self-jurisdiction, the disputed interaction has been put into the premise. The analyst must show that step rather than hide it inside the word “everything.”
 
-Each entry gives the source of the claim's strength, why an ordinary opponent would lose, the possible Self-Refinement route, and the resulting status. The route is conditional on [[Sovereign/Axioms|residue, jurisdiction, and continuance]].
+== Strong claims and actual interactions ==
 
 {| class="wikitable"
-! Claim !! Why it is formidable !! Possible interaction !! Honest status
+! Opposing claim !! Open Witness route !! Unruled Witness route
 |-
-| Absolute omnipotence || Complete authority in a stated domain leaves ordinary opponents no permitted escape. || Ivo examines whether "complete" includes the relation by which that domain is read. || Ambiguous beyond demonstrated jurisdiction; the [[The Closed King|King]] remains absolute in his book.
+| '''Total erasure with no later trace''' || A response after the attack may be impossible. A prepared [[Sovereign/Abilities#The Prior Answer|Prior Answer]] can resolve ''during'' it, as in the White Interval; the prior Ivo still dies. || A later trace is not a required substrate. Erasing evidence of him does not establish authority over his self-revision.
 |-
-| Absolute transcendence || A superior account can treat a lower world as an object. || The relation between accounts may leave a witnessable difference. || Possible revision if the relation exists; a genuinely closed exterior is untested.
+| '''A genuinely closed totality''' || Readdressing and escape to another account may fail. The Last Mercy showed that a presence can have no exterior and still make a consequential choice; a different presence need not make that choice. || The peak does not seek a larger exterior. It contests whether another system's closure has jurisdiction over his own definition and selected consequence.
 |-
-| Narrative supremacy || Control of the operative story can decide events before resistance. || Ivo changes his participation in the account or the relation between accounts. || Conditional; authorship over every valid continuation would be decisive if established.
+| '''Authority over logic or possibility''' || Ivo may need a usable relation to a different account. Without one, his familiar methods can fail. || No one local logic or possibility set is mandatory for his action. This is the End of Dependency, not a claim that contradictions prove whatever he wants.
 |-
-| Author-level existence || The opponent may define Ivo's every act as authored. || Ivo questions the warrant for calling that authorship terminal. || The [[Sovereign/History|Author Event]] is unresolved, not a victory over a real author.
+| '''Authorship of every event''' || The apparent Author Event is unresolved. A narrator may write a human Ivo's loss. || A fictional author figure is an actor in an account. An actual writer can of course edit a real text; fictional authorship alone does not acquire real-world authority over other works.
 |-
-| Immunity to rewriting || Direct edits cannot change the opponent. || Self-editing targets Ivo's relation to the opponent's effect rather than the opponent. || A route may remain; immunity can still block a needed interaction.
-|-
-| Conceptual nonexistence || No ordinary concept can locate or harm the opponent. || Ivo looks for consequences or boundaries by which the encounter is registered. || If none exists, comparison may be undefined.
-|-
-| Apophatic existence || Every positive predicate may fail to describe the opponent. || Negative testimony may still mark an effect's boundary. || Ambiguous; no automatic address is assumed.
-|-
-| Ineffability || The opponent cannot be adequately stated in the local language. || Ivo can respond to observed effects without a complete description. || Possible local adaptation, not total comprehension.
-|-
-| Limitless adaptation || Any fixed counter is eventually surpassed. || Ivo revises the comparison relation when it becomes observable. || Escalation, convergence, or deadlock; no forced winner.
-|-
-| Absolute negation || A single operation may cancel all permitted properties. || A surviving edge of absence could license a revision; total traceless closure would not. || Conditional and potentially fatal.
-|-
-| Paradoxical existence || Contradiction defeats ordinary inference. || Ivo separates witnesses and asks which inference rules the account permits. || Navigable in some accounts; contradiction grants no universal escape.
-|-
-| Superiority to mathematics || A setting may stipulate authority over its mathematical structures. || Ivo tests whether the encounter is governed by those structures or by their interpretation. || Scope-dependent; real mathematics is not conquered.
-|-
-| Superiority to logic || The opponent may set the rules of valid inference. || Ivo may edit a relation to another account with different rules. || Only if such a relation survives; otherwise undecidable or defeated.
-|-
-| Transcendence of fictional hierarchy || Every named layer may be included beneath the opponent. || Non-finality tests the claim's terminal boundary, not a larger layer count. || A named hierarchy may be bypassed; an actually exhaustive closure is unproved either way.
-|-
-| Control over canon || The opponent can decide which events count as official within its work. || Ivo can preserve a witness in an account of interpretation if one is available. || Cannot override an external publisher or real author's canon policy.
-|-
-| Infinite recursive transcendence || No finite superior layer catches the opponent. || Ivo need not climb the ladder; he examines the rule generating it. || Divergence or incomparability unless the generating relation can be edited.
+| '''Perfect adaptation or unlimited escalation''' || Repeated responses can converge, deadlock, or outpace Ivo. || The peak can change the relation that makes a response decisive or establish an outcome without presenting a conventional attack to adapt to. A rival with an equally grounded claim still needs a defined shared interaction.
 |}
-
-== Difficult substrates and timings ==
-
-'''A stronger opponent''' can defeat a current Ivo. The resulting difference may support a later revision only if some witness survives. '''An opponent outside conventional narrative layers''' requires an actual interaction relation; the word "outside" is insufficient. '''An opponent with no identity''' may still have effects, but Ivo cannot assume a targetable self. '''Information erasure''' may leave an edge around a missing fact; total removal of every edge would stop the known mechanism. '''A pre-causal attack''' can close before Ivo thinks; a noncausal witness might still register it, but no such witness is guaranteed.
-
-'''An imperceptible opponent''' may be known by changes it causes; if it causes no accessible change, there is no evidenced encounter. '''An allegedly omnipotent opponent''' is evaluated at its actual or stipulated jurisdiction. '''A rival adapter''' receives the same chance to revise. '''An opponent who rewrites Ivo''' may produce a successor with no witnessable link, which is a genuine loss even if someone later uses his name. '''Narrative immunity''' may block edits to the opponent while leaving self-edits possible. '''Beyond-author claims''' require an account of what "author" means and what has been demonstrated.
-
-'''A contradictory opponent''' is analyzed under its local inference rules; the archive does not infer anything from a contradiction. '''An indefinable opponent''' can sometimes be approached through effects but may make comparison undefined. '''A propertyless opponent''' that neither acts nor leaves a difference offers no contest; if it acts, the action is a relevant relation. '''An opponent outside logic''' may have no shared semantics with Ivo's account. Without translation, neither victory nor defeat is established.
-
-== The mirror reviser ==
-
-Suppose another being's rule is "I automatically surpass anything that surpasses me." If both revision rules use the same ordering and preserve a common witness, responses may form an infinite sequence. A fixed point is possible only if the rules admit a stable joint state. If each rule negates the other's stability, deadlock or divergence follows. If "surpass" refers to different properties in each account, the beings may be incomparable. Ivo's best route is to revise the *meaning of comparison* as part of the encounter. That is a distinctive breadth of operation, not a proof of semantic dominance. The rival may do the same, or remove the shared relation before he can use it.
 
 == A being without an exterior ==
 
-A presence that encompasses every world, account, reading, and witness cannot be defeated by having Ivo step outside it. The [[The Last Mercy|shelter encounter]] tests a harder route. The presence could complete every life as an expression of one will, but it claimed to do so as mercy for the people affected. Ivo's established escapes failed. He made one person's answer unowned by either side, so the presence had to choose between its totalizing act and its own purpose. It withdrew. That is an in-story victory over a particular being with a particular aim, not a rule that every being of equal scope can be made to yield. A power that does not care whether its act is mercy could erase the answer and its witnesses.
+[[The Last Mercy]] had reach over every world, account, reading, and witness in its archive. Ivo's exits failed. He defeated its plan through Sana's independent answer and the presence's own promise of mercy. That is a character victory, not proof that every totality is secretly kind.
 
-== The limits of non-finality ==
+[[The White Interval]] supplies the missing hostile case. Its closing force offered no bargain and aimed to remove witnesses and the edges of absence. Ivo prepared a conditional revision before the closure. The force ended the prior Ivo, yet the successor interrupted its next act. The scene demonstrates that '''no trace after an attack''' is not equivalent to '''no revision at any time'''. It also shows the price: victory over the force did not prove that the person who woke at dawn was the one who entered the blank.
 
-"No final description" sounds like a stable definition. The archive answers by treating non-finality as a procedure: when a proposed final description leaves a usable difference, another account may be attempted. The procedure has conditions and costs. It does not prove that every conceivable closure leaves a difference. This preserves the character's strongest defensible position without converting an interesting paradox into an automatic win clause.
+The [[The Unconditioned Draft|Unruled Witness]] is deeper than either method. At that peak, prior warning and later residue are chosen means of expression, not required conditions for self-writing. The archive's strongest battle claim is that he can select a fictional outcome against any number of fictional opponents without climbing their hierarchies or borrowing their power. He could make victory the only end. He ordinarily chooses Ivo's bounded life because an effortless forced result would turn other people's choices into scenery.
+
+== What would count as an answer? ==
+
+For the Open Witness, identify a particular mechanism, timing, and witness. For the Unruled Witness, argue whether an opponent's authority actually binds a self-definition that does not derive from the opponent's world. Evidence from the opponent's canon matters; its adjectives alone do not decide the crossover. Evidence from Sovereign's canon matters too; his peak is not reduced to the flood clerk's field procedure.
+
+This model gives Sovereign a serious route against a being described as an ultimate absolute. It does not claim a mathematically forced result across independently authored fiction. Such a result would require an agreed canon merger that neither work can impose on the other. Within Sovereign's own story, the peak state is intentionally capable of ending the contest. The story's question is why he keeps choosing a life in which another person may still say no.
 
 {{Sovereign navigation}}
 [[Category:Mechanics]]

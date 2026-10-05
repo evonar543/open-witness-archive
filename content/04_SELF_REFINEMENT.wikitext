@@ -1,18 +1,30 @@
-'''Self-Refinement''' is the fictional process by which an encounter can become a revision of Sovereign's own description. It is a relation among a current self-description, an opposing condition, an interpretive context, and a surviving witness. It is not a stored list of immunities or a promise that every threat will fail.
+'''Self-Refinement''' is the fictional process by which an encounter can become a revision of Sovereign's own description. It relates a current self-description, an opposing condition, an interpretive context, and a proposed successor. A witness can test the result, but need not be present after every attack for a revision chosen beforehand to resolve. The process is not a stored list of immunities or a promise that every threat will fail.
 
 <blockquote>S(n+1) = R[S(n), O(n), C(n) | W(n)]</blockquote>
 
-Here ''S'' is a current description of Ivo; ''O'' is an opponent, law, or condition; ''C'' is the account and reading in which they meet; ''W'' is the residue by which a later state can be related to an earlier one; and ''R'' is a proposed and ratified revision. The equation is a fictional notation, not a numerical growth law. Without residue or a witnessable continuation, its next term is uncertain.
+Here ''S'' is a current description of Ivo; ''O'' is an opponent, law, or condition; ''C'' is the account and reading in which they meet; ''W'' is evidence by which an archive can relate a later state to an earlier one; and ''R'' is a proposed revision. The equation is a fictional notation, not a numerical growth law. Lack of a later witness limits what can be proven about continuity. It does not retroactively cancel a revision already formed during an encounter.
 
 == Operational sequence ==
 
 # '''Encounter:''' A condition bears on Ivo. An attack, omission, definition, or rival adaptation may all qualify.
-# '''Residue:''' Some difference remains available: an incompatible testimony, a missing interval with visible edges, or a mismatch between a claim and its address. Perfectly traceless closure offers no clear route.
+# '''Information or preparation:''' Ivo needs enough contact with the opposing condition to form a coherent change. A surviving difference can supply that information after a bounded attack. A standing candidate can instead be prepared before a closing act; neither route is guaranteed.
 # '''Candidate revision:''' Ivo changes a relation in his own description, often the way he can be addressed or counted by the opposing condition. A proposed change may be incoherent.
-# '''Ratification:''' A witness must relate the proposed state to the prior Ivo. Recognition may be contested, and it cannot prove continuity of consciousness.
+# '''Resolution and testimony:''' The revision either resolves with the encounter or fails. A later witness may establish what changed, but testimony is evidence of a result, not the switch that makes every revision possible. Recognition cannot prove continuity of consciousness.
 # '''Consequence:''' The local threat may cease to apply, while a friendship, obligation, or piece of evidence is lost. Every chosen change increases continuity debt.
 
 This process is analyzed through the [[Sovereign/Axioms|ten axioms]]. They are in-universe theory with objections, not externally proven laws.
+
+== Two timings of revision ==
+
+'''Responsive refinement''' follows a surviving difference. Ivo sees the edge of a missing fact, identifies a relation he can change, and tries to continue. If the edge and every witness vanish before he acts, this route closes.
+
+'''The Prior Answer''' is a harder, prospective form. Ivo meets a condition while choice is still possible and revises the terms of his own succession before the condition resolves. When [[The White Interval|the White Interval]] removed every later trace of the first Ivo, the prepared candidate resolved with the closing act. It did not wait for a survivor to discover a clue. The first Ivo was gone; the successor stopped the force's next act and could not certify that he had inherited the same consciousness. This route demands prior contact, a coherent candidate, and a resolution the opposing authority has not already foreclosed.<ref>[[The White Interval]]; [[Sovereign/Feats#18. The white interval — prior answer|Feats, “The white interval”]].</ref>
+
+The distinction matters in comparison: destroying all ''later evidence'' of Ivo does not establish that a revision ''already undertaken'' could not resolve. To show decisive closure, an opponent must also govern the preparation and resolution of that candidate in the actual encounter. A title such as “ultimate” does not supply the missing interaction by itself.
+
+== Beyond the archivists' sequence ==
+
+The responsive and prospective routes are practices of Ivo's chosen, accountable life. [[The Unconditioned Draft]] identifies the Unruled Witness as the deeper source of Self-Refinement. At that peak, he need not wait for an opposing condition, preserve a witness, occupy an external substrate, or borrow a local logic to make revision possible. The archivists could require those things to ''verify'' one of his changes; they could not thereby make their verification procedure a law over the being who first wrote Ivo's life. The unanswered question of personal continuity remains a burden he chooses to take seriously, not a switch that turns his power off.
 
 == Eight kinds of edit ==
 
@@ -40,7 +52,7 @@ Self-editing is the central operation because all other edits presume an editor 
 
 == Absorbed opposition ==
 
-'''Opposition → information → candidate revision → possible continuation.''' A stronger opponent may reveal a limitation. An opponent outside familiar narrative relations may reveal that the local hierarchy was not universal. A rival reviser can make Ivo's earlier solution obsolete. None of this means Ivo steals the opponent's powers. If the opposition leaves no usable difference, if the accounts cannot interact, or if no witness can connect the proposed states, refinement remains unestablished.
+'''Opposition → information → candidate revision → possible continuation.''' A stronger opponent may reveal a limitation. An opponent outside familiar narrative relations may reveal that the local hierarchy was not universal. A rival reviser can make Ivo's earlier solution obsolete. None of this means Ivo steals the opponent's powers. If there is no encounter from which to form a candidate, refinement is unestablished. If no witness can connect the resulting states, personal continuity remains unproved even when an action by a successor is recorded.
 
 == The address of an absolute attack ==
 
@@ -56,7 +68,7 @@ Diagonal arguments inspire the idea that a proposed complete list can expose an 
 
 == Jurisdiction and uncertainty ==
 
-An edit works inside an account or an established relation between accounts. Being named in a higher account is not automatically enough to control it. An allegedly complete authority over every valid account could block every continuation; the surviving stories have not tested that proposition. The Open Witness refuses finality as a practice, not as a logically proven immunity.
+An edit works inside an account or an established relation between accounts. Being named in a higher account is not automatically enough to control it. The White Interval demonstrates a prepared self-revision against a force closing every ordinary witness and account in the scene; its success is narrower than authority over every imaginable system. A genuinely complete authority that also controls the formation and resolution of Ivo's candidate could block him. Whether a particular opponent has done so must be established from the encounter, rather than inferred from an epithet.
 
 {{Sovereign navigation}}
 [[Category:Mechanics]]

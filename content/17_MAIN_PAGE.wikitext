@@ -27,10 +27,12 @@ This archive keeps the stories, records, contradictions, and refusals that a lis
 <mainpage-endcolumn /><mainpage-rightcolumn-start />
 == Read the archive's evidence ==
 
-* [[Sovereign/Feats]] — seventeen events, each with a mechanism and a limit
+* [[Sovereign/Feats]] — nineteen events, each with a mechanism and a limit
 * [[Sovereign/Axioms]] — ten proposed rules and their objections
 * [[Sovereign/Comparative model]] — careful cross-fiction analysis
 * [[The Last Mercy]] — a late encounter with a presence able to complete every account
+* [[The White Interval]] — a prepared revision against an indifferent closing force
+* [[The Unconditioned Draft]] — the background and moral stakes of Sovereign's unrestrained peak
 * [[Sovereign/Quotes]] — dialogue from surviving accounts
 
 == How to read a claim ==
